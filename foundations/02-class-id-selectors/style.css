@@ -1,0 +1,19 @@
+.absatz {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color:rgb(248, 140, 241);
+    color: black;
+}
+
+#nr2 {
+    font-size: 36px;
+    color: rgb(63, 157, 239);
+}
+
+.larger {
+    font-size: 24px;
+}
+
+#nr4 {
+    font-weight: bold;
+    background-color: rgb(63, 239, 113);
+}
